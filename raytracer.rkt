@@ -120,4 +120,4 @@
   (defsphere 0 -300 -1200 200 0.8 0)
   (defsphere -80 -150 -1200 200 0.7 1)
   (defsphere 70 -100 -1200 200 0.9 2)
-  (tracer "/Users/nickweinhold/wtfisthis.pgm" res))
+  (tracer "racket-spheres.pgm" res))
